@@ -1,0 +1,4 @@
+Člověče, nezlob se!;true;3
+Ubongo;false;2
+Šachy;false;1
+Activity;true;3
