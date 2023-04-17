@@ -101,7 +101,7 @@ public class Form extends JFrame{
         // Vytvoření tabulky a zobrazení dat v ní
         JFrame frame = new JFrame("Deskové hry");
         JPanel panel = new JPanel();
-        String[] columnNames = {"Název", "Koupena", "Oblíbenost"};
+        String[] columnNames = {"Název", "Zakoupeno", "Oblíbenost"};
         Object[][] data = new Object[hry.size()][3];
         for (int i = 0; i < hry.size(); i++) {
             Deskovka hra = hry.get(i);
