@@ -98,8 +98,8 @@ public class Form extends JFrame{
             e.printStackTrace();
         }
 
-        // Vytvoření tabulky a zobrazení dat v ní
-        JFrame frame = new JFrame("Deskové hry");
+
+        JFrame frame = new JFrame("Deskové hry - Tabulka");
         JPanel panel = new JPanel();
         String[] columnNames = {"Název", "Zakoupeno", "Oblíbenost"};
         Object[][] data = new Object[hry.size()][3];
