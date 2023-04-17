@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64b0069c-5255-4f8e-b4f6-446b3a92564a" name="Changes" comment="Přidány soubory" />
+    <list default="true" id="64b0069c-5255-4f8e-b4f6-446b3a92564a" name="Changes" comment="Přidány soubory">
+      <change beforePath="$PROJECT_DIR$/src/Form.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Form.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681764026129</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Přidány soubory">
+      <created>1681764244670</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681764244670</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

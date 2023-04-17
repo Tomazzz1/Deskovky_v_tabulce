@@ -133,7 +133,7 @@ public class Form extends JFrame{
                 boolean zakoupeno = Boolean.parseBoolean(castiRadku[1]);
                 int oblibenost = Integer.parseInt(castiRadku[2]);
                 seznamDeskovek.add(new Deskovka(nazev, zakoupeno, oblibenost));
-                Object[] row = {nazev,zakoupeno,oblibenost};
+
 
 
             }
